@@ -2,7 +2,7 @@
  * WordCount
  * Labb 4 Uppgift 7
  *  
- *  /Users/joedan/Documents/EclipseWorkspace/Search/src/words.txt
+ *  /Users/xxxxxxx/Documents/EclipseWorkspace/Search/src/words.txt
  */
 
  import java.io.*;  
