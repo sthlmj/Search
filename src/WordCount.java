@@ -1,6 +1,6 @@
 /* 
  * WordCount
- * Labb 4 Uppgift 7
+ * L4 U7
  *  
  *  /Users/xxxxxxx/Documents/EclipseWorkspace/Search/src/words.txt
  */
